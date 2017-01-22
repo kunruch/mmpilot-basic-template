@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url> <loc>https://example.com/about</loc> <lastmod>2017-01-22T14:49:08Z</lastmod> </url>
-<url> <loc>https://example.com/hello-world</loc> <lastmod>2017-01-22T14:50:10Z</lastmod> </url>
-<url> <loc>https://example.com/contact</loc> <lastmod>2017-01-22T14:49:03Z</lastmod> </url>
-<url> <loc>https://example.com/</loc> <lastmod>2017-01-22T15:01:11Z</lastmod> </url>
-<url> <loc>https://example.com/blog</loc> </url>
-<url> <loc>https://example.com/category/general</loc> </url>
+<url> <loc>https://kunruch.github.io/about</loc> <lastmod>2017-01-22T14:49:08Z</lastmod> </url>
+<url> <loc>https://kunruch.github.io/hello-world</loc> <lastmod>2017-01-22T14:50:10Z</lastmod> </url>
+<url> <loc>https://kunruch.github.io/contact</loc> <lastmod>2017-01-22T14:49:03Z</lastmod> </url>
+<url> <loc>https://kunruch.github.io/</loc> <lastmod>2017-01-22T15:01:11Z</lastmod> </url>
+<url> <loc>https://kunruch.github.io/blog</loc> </url>
+<url> <loc>https://kunruch.github.io/category/general</loc> </url>
 </urlset>
